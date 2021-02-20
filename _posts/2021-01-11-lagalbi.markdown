@@ -1,0 +1,49 @@
+---
+layout: post
+title:  "Korean Style Short Ribs LA Galbi (갈비) Recipe"
+date:   2021-01-11 17:38:57 -0800
+categories: Korean.Recipes Fast.Easy.Recipes
+---
+
+
+
+
+LA Galbi is probably the most well known Korean dish outside of Korea. It is a
+sweet soy sauce marinade that even the most pickiest people will enjoy. There are
+many recipes but the marinade mainly consists of sugar, soy sauce, garlic and
+onion. The Korean pear is often added because the enyzmes help tenderize the
+meat making it easier to chew! In our recipe we use less soy sauce and sugar,
+but feel free to adjust the ratios to your and your family's liking!
+
+<iframe width="716" height="402" src="https://www.youtube.com/embed/I9yG82MDbu4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br />
+
+Original Recipe: [link][original]
+
+
+{% highlight ruby %}
+Ingredients:
+  ~ 1 lbs beef short ribs cut into strips (easily found in Asian groceries)
+
+  Marinade:
+    1 sweet onion
+    2 1 Korean pear or Fuji apple
+    5 cloves garlic, peeled
+    1 inch piece ginger
+    1/2 cup firmly packed dark brown sugar
+    1/2 cup soy sauce
+    1/2 cup water
+    2 tablespoons dark sesame oil
+
+{% endhighlight %}
+
+{% highlight ruby %}
+Directions:
+  1. Soak meat in water for 1 hour (optional)
+  2. Mince onion, pear, garlic, ginger and add in the sugar
+     soy sauce and water
+  3. Place the meat and marinade in the fridge for 8-24 hours
+  4. Grill meat of stove, oven or grill!
+
+{% endhighlight %}
+
+[original]: https://mykoreankitchen.com/la-galbi/
